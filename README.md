@@ -1,5 +1,5 @@
 <h1>Product Landing Page</h1>
-It's a <strong>responsive<s/trong> web pages and it the third project of the first five Introduction to the Responsive Web Design Projects (FreeCodeCamp).
+It's a <strong>responsive</strong> web pages and it the third project of the first five Introduction to the Responsive Web Design Projects (FreeCodeCamp).
 in order to create those five projects we needed to finish a <strong>Responsive Web Design Certification (300 hours)</strong>,
 which is divided into those chalanges
  <ol>
